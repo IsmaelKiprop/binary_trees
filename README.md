@@ -2,6 +2,8 @@
 
 A binary tree is a rooted tree that is also an ordered tree (a.k.a. plane tree) in which every node has at most two children. A rooted tree naturally imparts a notion of levels (distance from the root), thus for every node a notion of children may be defined as the nodes connected to it a level below.
 
+![image](https://github.com/IsmaelKiprop/binary_trees/assets/133222922/d99ab161-eaad-495e-ab13-091ff9bd1151)
+
 
 ## Header File :file_folder:
 
